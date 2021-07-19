@@ -1,5 +1,4 @@
 # Hello-World
 =============
 
-Hi! I am the beginner of coding and computer science.
-Thank you.
+Hi! I am the beginner of computer science.
